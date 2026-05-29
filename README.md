@@ -113,10 +113,10 @@ streamlit run app.py
 
 ## 👩‍💻 Authors
 
+- Afia Refal
 - Maliha Mubeen  
 - Mariam Firdous  
 - Meharunnisa Begum  
-- Afia Refal
 
 --- 
 
